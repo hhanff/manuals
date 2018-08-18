@@ -1,2 +1,2 @@
 # manuals
-This repository contains old Manuals and Circuit descritions
+This repository contains old manuals and circuit descriptions.
